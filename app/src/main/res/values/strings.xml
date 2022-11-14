@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealmTargetsApp</string>
+    <string name="title_activity_add_target">AddTargetActivity</string>
+</resources>
